@@ -1,0 +1,48 @@
+body {
+    background-color:#0A3143;
+}
+
+h1 {
+    color: yellowgreen;
+    text-align: center;
+}
+
+h3 {
+    color: yellowgreen;
+}
+
+p {
+    color:yellowgreen ;
+    margin-left: 20px;
+}
+
+#general {
+    margin: auto;
+    padding: auto;
+    width: 960px;
+    height: 400px;
+    background-color: #276e90;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#primario {
+    width: 900px;
+    height: 360px;
+    background-color:#EDEDEE;
+    display: flex;
+    border-radius: 15px;
+}
+#s1{
+    margin: 20px;
+    width: 400px;
+    
+}
+
+#s2 {
+    margin: 20px;
+    width: 400px;
+    background-color: #333333;
+}
+
